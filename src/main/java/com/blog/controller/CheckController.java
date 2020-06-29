@@ -73,7 +73,7 @@ public class CheckController {
             JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
             mailSender.setHost("smtp.qq.com");
             mailSender.setUsername("751317151@qq.com");
-            mailSender.setPassword("bdcvchrvxffnbbbj");
+            mailSender.setPassword("邮箱授权码");
 
             // 加认证机制
             Properties javaMailProperties = new Properties();
