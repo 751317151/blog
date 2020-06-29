@@ -39,7 +39,7 @@ public class AdminCommentAndReplyController {
 
             mailSender.setHost("smtp.qq.com");
             mailSender.setUsername("hh@huahaohh.cn");
-            mailSender.setPassword("bdcvchrvxffnbbbj");
+            mailSender.setPassword("授权码");
 
             // 加认证机制
             Properties javaMailProperties = new Properties();
