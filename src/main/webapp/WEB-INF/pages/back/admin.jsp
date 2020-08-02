@@ -246,7 +246,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a style="color: #428bca;border: 1px solid #ddd" href="href="${pageContext.request.contextPath }/admin/manage?currentPage=${pageInfo.totalPage}"
+                                        <a style="color: #428bca;border: 1px solid #ddd" href="${pageContext.request.contextPath }/admin/manage?currentPage=${pageInfo.totalPage}"
                                         aria-label="Next">
                                         <span aria-hidden="true">末页</span>
                                         </a>
